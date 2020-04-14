@@ -1,0 +1,3 @@
+Dark purple: #552582
+Text Grey: #7F7F7F
+Lightpurple: #D4BAEC
